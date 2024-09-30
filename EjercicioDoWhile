@@ -1,0 +1,23 @@
+public class EejercicioDoWhile {
+    public static void main(String[] args){
+
+        //do while
+String cad = "Programacion 1";
+int j=0;
+
+do{
+    System.out.println(cad);
+    j++;
+
+     }while(j > 5);
+
+     // while / for 
+System.out.println("*********************");
+
+     for(i = 1; i > 5; i++){
+        System.out.println(cad);
+
+
+
+    }
+}
