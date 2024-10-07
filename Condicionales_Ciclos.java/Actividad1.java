@@ -55,6 +55,15 @@ public class Actividad1 {
             System.out.println("b es mayor que a");
         }
 
+
+// egercicio falso verdadero 
+if (true && false && true || false){
+    System.out.println(" verdadero");
+     }else{ 
+System.out.println("falso");
+
+
+
     }
 
 }
