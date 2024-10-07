@@ -5,7 +5,7 @@ public class Actividad1{
         boolean b = true;
         boolean c = true;
 
-        if (!a || (b && c)) {
+        if (!a && (b && c)) {
             System.out.println("Sentencia if Ejecuada");
         } else {
             System.out.println("Sentencia else Ejecutada");
