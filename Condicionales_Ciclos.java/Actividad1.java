@@ -11,7 +11,15 @@ public class Actividad1{
             System.out.println("Sentencia else Ejecutada");
 
         }
+// Egercicio 2
+
+
+
+
+
+
 
 }
 
  }
+ 
